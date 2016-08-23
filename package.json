@@ -1,7 +1,7 @@
 {
-  "name": "react-tag-input",
+  "name": "react-tag-input-colors",
   "version": "4.3.0",
-  "description": "React tags is a fantastically simple tagging component for your React projects",
+  "description": "This is a fork of React tags which lets you specify a colour without using classes (to change inline styles and add a calculated colour dynamically)",
   "main": "dist-modules/reactTags.js",
   "scripts": {
     "test": "mocha test/.setup.js test/**/*-test.js",
@@ -17,9 +17,9 @@
     "react-component",
     "autosuggest"
   ],
-  "author": "Prakhar Srivastav",
+  "author": "Justin Stahlman",
   "license": "MIT",
-  "repository": "https://github.com/prakhar1989/react-tags",
+  "repository": "https://github.com/stahlmanDesign/react-tags",
   "dependencies": {
     "lodash.flow": "^3.3.0",
     "react-dnd": "^2.0.2",
